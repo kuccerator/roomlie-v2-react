@@ -10,9 +10,11 @@ Roomlie allows venue owners and guests to visualize room layouts with interactiv
 
 ## 📸 Screenshots
 
-| Interactive Room & Drag & Drop | Reservation & Admin Dashboard |
-| :---: | :---: |
-| ![Room View](docs/room_view.png) | ![Admin Dashboard](docs/admin_dashboard.png) |
+University mock backend retired – local setup instructions below
+
+| Creating Table | 
+| :---: |
+| ![Room View](screenshots/room_view.png) |
 
 ---
 
@@ -60,5 +62,11 @@ Roomlie allows venue owners and guests to visualize room layouts with interactiv
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/kuccerator/roomlie-react-app.git](https://github.com/kuccerator/roomlie-react-app.git)
+   git clone [https://github.com/kuccerator/Roomline-V2-OD6O6W.git](https://github.com/kuccerator/Roomlie-V2-OD6O6W.git)
    cd roomlie-react-app/client
+
+---
+
+## ✍🏽 Author
+
+*Baráth Réka*
