@@ -1,4 +1,4 @@
-# Client-side programming (ELTE 6. semester)
+# ELTE Client-side programming (6. semester)
 
 A modern, responsive Single-Page Application (SPA) built with **React, Redux Toolkit, and REST API integration**. 
 
@@ -62,7 +62,7 @@ University mock backend retired – local setup instructions below
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/kuccerator/Roomline-V2-OD6O6W.git](https://github.com/kuccerator/Roomlie-V2-OD6O6W.git)
+   git clone [https://github.com/kuccerator/roomlie-v2-react.git](https://github.com/kuccerator/roomlie-v2-react.git)
    cd roomlie-react-app/client
 
 ---
